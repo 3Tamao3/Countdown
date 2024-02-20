@@ -1,4 +1,4 @@
-Simple Countdown in C
+Simple Countdown App in C
 
 Just enter a number in seconds and the countdown will start. <br>
 press CTRL+C to end the countdown
